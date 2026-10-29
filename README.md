@@ -1,4 +1,4 @@
-# Bannerlord Coop — AMP Template
+# Bannerlord Coop — AMP Template copy of https://github.com/rhinotastic/bannerlord-coop-amp-template.git
 
 A CubeCoders AMP "Generic Module" configuration that runs the Bannerlord Coop
 dedicated server under Wine in AMP's official Wine container
